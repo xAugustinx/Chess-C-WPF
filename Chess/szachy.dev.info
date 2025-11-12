@@ -1,0 +1,13 @@
+Pierwszy znak oznacza kolor:
+	0 == bia³y
+	1 == czarny
+
+Drugi znak figura:
+	0 == pionek
+	1 == wie¿a
+	2 == koñ
+	3 == goniec (ten na skos)
+	4 == król
+	5 == królowa
+	
+99 == puste pole
